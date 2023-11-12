@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![@Shr11's Holopin board](https://holopin.io/api/user/board?user=Shr11)](https://holopin.io/@Shr11)
+
 <!--
 **Shr11/Shr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![An image of @shr11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shr11)](https://holopin.io/@shr11)
