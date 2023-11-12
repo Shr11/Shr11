@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![@Shr11's Holopin board](https://holopin.io/api/user/board?user=Shr11)](https://holopin.io/@Shr11#badges)
+[![@Shr11's Holopin board](https://holopin.io/api/user/board?user=Shr11#badges)](https://holopin.io/@Shr11)
 <!--
 **Shr11/Shr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
