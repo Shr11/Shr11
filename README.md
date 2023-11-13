@@ -8,6 +8,10 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG90N3JnMnY5OWljdjJsaGh4OG1qMzVzMWNjdTBiemowbm41emdzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" width="200" height="200"/>
 </div>
 
+<div align="center">
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE4NWUwZHlmMnR1djRod3hwaHBodXVqcXByanFpMWd6dmUxdTB3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="150" />
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shraddha-sharma-15246a262/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,11 +25,10 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
+
+
 <div align="center">
   <img src="https://media2.giphy.com/media/qPa9vUYCUrx6w/giphy.gif?cid=ecf05e47lsbedi4svarxr8xxrmboeow8yafubl19wo6c53z1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="400"/>
-</div>
-<div align="center">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE4NWUwZHlmMnR1djRod3hwaHBodXVqcXByanFpMWd6dmUxdTB3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="150" />
 </div>
 
 ### Hii🙂 It's a pleasure connecting with you. 
