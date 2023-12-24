@@ -52,6 +52,8 @@ Feel free to explore my repositories and let's collaborate on something cool! �
 
 </div>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shr11&theme=dark)
+
 ### 🛠️ Languages & tools :
 <div>
 <p>
