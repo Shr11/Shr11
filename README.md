@@ -41,8 +41,8 @@ I'm an OpenSource enthusiast excited to learn & work on cool projects each day. 
 </div>
 
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shr11&layout=compact&theme=vision-friendly-dark)](https://github.com/Shr11/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shr11&layout=compact&theme=dark)](https://github.com/Shr11/github-readme-stats)
 <!-- ERROR [![GitHub Stats](https://github-readme-stats.vercel.app/api?username={Shr11}&theme=blue-green)](https://github.com/Shr11/github-readme-stats)-->
 
 </div>
