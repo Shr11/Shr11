@@ -36,6 +36,9 @@ I'm a passionate software developer with a love for coding and creating awesome 
 
 🌱 I’m currently learning and exploring new technologies to expand my skill set.
 
+Feel free to explore my repositories and let's collaborate on something cool! 😎✨
+
+
 ### :fire: My Stats :
 <div align="center">
   
@@ -68,8 +71,6 @@ I'm a passionate software developer with a love for coding and creating awesome 
 </p>
 </div>
 
-
-Feel free to explore my repositories and let's collaborate on something cool! 😎✨
 
 
 
