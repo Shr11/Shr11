@@ -32,7 +32,9 @@
 </div>
 
 ### Hii🙂 It's a pleasure connecting with you. 
-I'm an OpenSource enthusiast excited to learn & work on cool projects each day. Connect with me to share abaout yourself/work together on a new project together!
+I'm a passionate software developer with a love for coding and creating awesome projects. Welcome to my GitHub playground, where I bring ideas to life through code.
+
+🌱 I’m currently learning and exploring new technologies to expand my skill set.
 
 ### :fire: My Stats :
 <div align="center">
@@ -67,7 +69,7 @@ I'm an OpenSource enthusiast excited to learn & work on cool projects each day. 
 </div>
 
 
-
+Feel free to explore my repositories and let's collaborate on something cool! 😎✨
 
 
 
