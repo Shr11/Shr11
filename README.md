@@ -52,7 +52,7 @@ Feel free to explore my repositories and let's collaborate on something cool! �
 
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shr11&theme=dark)
+
 
 ### 🛠️ Languages & tools :
 <div>
@@ -74,11 +74,25 @@ Feel free to explore my repositories and let's collaborate on something cool! �
 </div>
 
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shr11&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=Shr11&color=blue)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Shr11.Shr11)
+
+![](https://github.com/Shr11/Shr11/blob/output/github-contribution-grid-snake.svg)
+
+![Animated GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shr11&show_icons=true&theme=radical)
+
+![Animated GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shr11&theme=radical)
+
+
+
 
 
 <!--
 **Shr11/Shr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 
 
 Here are some ideas to get you started:
