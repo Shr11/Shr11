@@ -30,6 +30,8 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/qPa9vUYCUrx6w/giphy.gif?cid=ecf05e47lsbedi4svarxr8xxrmboeow8yafubl19wo6c53z1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="400"/>
 </div>
+![Animated GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shr11&theme=radical)
+
 
 ### HiiðŸ™‚ It's a pleasure connecting with you. 
 I'm a passionate software developer with a love for coding and creating awesome projects. Welcome to my GitHub playground, where I bring ideas to life through code.
@@ -83,8 +85,6 @@ Feel free to explore my repositories and let's collaborate on something cool! ðŸ
 ![](https://github.com/Shr11/Shr11/blob/output/github-contribution-grid-snake.svg)
 
 ![Animated GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shr11&show_icons=true&theme=radical)
-
-![Animated GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shr11&theme=radical)
 
 
 
