@@ -7,7 +7,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG90N3JnMnY5OWljdjJsaGh4OG1qMzVzMWNjdTBiemowbm41emdzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" width="200" height="200"/>
 </div>
-
+![](https://komarev.com/ghpvc/?username=Shr11&color=blue)
 <div align="center">
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE4NWUwZHlmMnR1djRod3hwaHBodXVqcXByanFpMWd6dmUxdTB3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="150" />
 </div>
@@ -41,7 +41,7 @@ I'm a passionate software developer with a love for coding and creating awesome 
 Feel free to explore my repositories and let's collaborate on something cool! 😎✨
 
 
-### :fire: My Stats :
+
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shr11&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -75,10 +75,11 @@ Feel free to explore my repositories and let's collaborate on something cool! �
 </p>
 </div>
 
+### :fire: My Stats :
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shr11&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=Shr11&color=blue)
+
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Shr11.Shr11)
 
