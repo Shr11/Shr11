@@ -66,14 +66,14 @@ Feel free to explore my repositories and let's collaborate on something cool! ðŸ
 
 
 ### :fire: My Stats :
-<div align="center">
+<div align="center"><!--user=Shr11&layout=compact&theme=dark-->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shr11&layout=compact&theme=dark)](https://github.com/Shr11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shr11&show_icons=true&theme=radical)](https://github.com/Shr11/github-readme-stats)
 </div>
 
 <div id="stats" align="center">
   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Shr11)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Shr11&show_icons=true&theme=radical)](https://git.io/streak-stats)
 <!-- ERROR [![GitHub Stats](https://github-readme-stats.vercel.app/api?username={Shr11}&theme=blue-green)](https://github.com/Shr11/github-readme-stats)-->
 
 
