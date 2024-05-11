@@ -6,7 +6,7 @@ name: Generate Snake
 on:
   schedule:
     # cron job for every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
 
     # cmd allowing to run action automatically from the actions tab
   workflow_dispatch:
@@ -33,7 +33,7 @@ jobs:
           id: snake-gif
           # env vars for action
           with:
-            github_user_name: ${{github.repository_owner}}
+            github_user_name: Shr11
             outputs:
               dist/github-contribution-grid-snake.svg
               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -43,7 +43,7 @@ jobs:
         - name: Show build status
           run: git status
 
-
+        
         - name: Push new files to the output branch
           uses: crazy-max/ghaction-github-pages@v3.1.0
           with: 
