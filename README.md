@@ -58,7 +58,7 @@
 </div>
 
 
-<div align="right"><!--user=Shr11&layout=compact&theme=dark-->
+<div align="center"><!--user=Shr11&layout=compact&theme=dark-->
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Shr11&show_icons=true&theme=radical)](https://git.io/streak-stats)
   ![Animated GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shr11&show_icons=true&theme=radical)
