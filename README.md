@@ -1,9 +1,4 @@
-
-
-<!--<div id="header" align="center">
-<iframe src="https://giphy.com/embed/ZUy8cKIV8WYiAwBZ8b" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ImageUpClub-hello-hi-heylo-ZUy8cKIV8WYiAwBZ8b">via GIPHY</a></p>
-</div>-->
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07"/>
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG90N3JnMnY5OWljdjJsaGh4OG1qMzVzMWNjdTBiemowbm41emdzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" width="200" height="200"/>
 </div>
@@ -25,10 +20,6 @@
   <a href="https://medium.com/@shr.comp1">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shr11&style=flat-square&color=blue" alt=""/>
-  
 </div>
 
 
@@ -90,9 +81,7 @@ Feel free to explore my repositories and let's collaborate on something cool! ðŸ
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
