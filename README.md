@@ -56,7 +56,7 @@
 
 <div align=center>
 
-  <img alt="snake grid" src="raw.githubusercontent.com/Shr11/Shr11/output/github-contribution-grid-snake.svg">
+  <img alt="snake grid" src="https://github.com/Shr11/Shr11/blob/output/github-snake-dark.svg">
   
 </div>
 
