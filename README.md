@@ -76,7 +76,7 @@
 
 [![An image of @shr11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shr11)](https://holopin.io/@shr11)
 
-
+<!---
 ### 🛠️ Languages & tools :
 <div>
 <p>
@@ -84,10 +84,8 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -97,13 +95,3 @@
 
 
 
-
-<div align=center>
-
-  ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Shr11&combine_all_yearly_contributions=true&theme=synthwave)
-   <!--
-**Shr11/Shr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <!--stackoverflow-->
-[![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=21074100)](https://stackoverflow.com/layout=compact/users/21074100/shraddha-sharma&layout=compact)
-
-</div>
